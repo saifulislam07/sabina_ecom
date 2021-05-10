@@ -1,0 +1,1 @@
+<iframe width="100%" height="600" src="<?php echo $productDetailsList->embedcode; ?>?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>

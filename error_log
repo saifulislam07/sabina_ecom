@@ -1,0 +1,2 @@
+[14-Jan-2017 05:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected ''<table width="800" align="cen' (T_CONSTANT_ENCAPSED_STRING) in /home/mayakunjo/public_html/1mg/application/controllers/delivery.php on line 132
+[14-Jan-2017 05:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected '560' (T_LNUMBER) in /home/mayakunjo/public_html/1mg/application/controllers/delivery.php on line 91
